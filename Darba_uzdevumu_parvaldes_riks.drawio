@@ -76,7 +76,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-34" value="JS/ VAM grupu līmeņi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="110" y="465" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-47" target="ZfrTe5NxoF89OXbGs7Vm-48">
           <mxGeometry relative="1" as="geometry" />
@@ -90,7 +90,10 @@
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-48" value="Darbinieku plānostās stundas(periods)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-20" y="550" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-54" target="ZfrTe5NxoF89OXbGs7Vm-65">
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-54" target="ZfrTe5NxoF89OXbGs7Vm-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-54" target="ZfrTe5NxoF89OXbGs7Vm-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-54" value="Struktūrvienības Darba plāns/Nodarbību saraksts" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -118,10 +121,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-65" value="Statistika" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="950" y="535" width="183" height="180" as="geometry" />
+          <mxGeometry x="730" y="620" width="183" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-69" value="&lt;div&gt;JSI Darba stundas&lt;/div&gt;&lt;div&gt;-gads;&lt;/div&gt;&lt;div&gt;-mēnesis;&lt;/div&gt;&lt;div&gt;stundas;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="597" y="157.5" width="130" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-71" value="Obligātā satura izpilde" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="390" width="183" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
