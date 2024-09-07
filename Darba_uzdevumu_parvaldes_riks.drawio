@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3217" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -54,7 +54,7 @@
             <mxPoint x="457" y="454.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-28" target="ZfrTe5NxoF89OXbGs7Vm-41">
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-28" target="ZfrTe5NxoF89OXbGs7Vm-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-28" value="Grupu sadale/JSI slodze" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -77,9 +77,6 @@
         </mxCell>
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-34" value="JS/ VAM grupu līmeņi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="217" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-41" value="&lt;div&gt;JSI Darba stundas&lt;/div&gt;&lt;div&gt;-gads;&lt;/div&gt;&lt;div&gt;-mēnesis;&lt;/div&gt;&lt;div&gt;stundas;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-47" target="ZfrTe5NxoF89OXbGs7Vm-48">
           <mxGeometry relative="1" as="geometry" />
@@ -122,6 +119,9 @@
         </mxCell>
         <mxCell id="ZfrTe5NxoF89OXbGs7Vm-65" value="Statistika" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="950" y="535" width="183" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-69" value="&lt;div&gt;JSI Darba stundas&lt;/div&gt;&lt;div&gt;-gads;&lt;/div&gt;&lt;div&gt;-mēnesis;&lt;/div&gt;&lt;div&gt;stundas;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="597" y="157.5" width="130" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
