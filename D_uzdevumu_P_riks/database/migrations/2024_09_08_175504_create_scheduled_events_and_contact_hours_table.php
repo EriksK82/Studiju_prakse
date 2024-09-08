@@ -15,14 +15,12 @@ return new class extends Migration
             $table->id();
             $table->foreignId('employee_id')->constrained('employees')->onDelete('cascade');
             $table->foreignId('study_group_id')->constrained('study_groups')->onDelete('cascade');
-            $table->enum('event_type', ['Camp', 'Hike', 'Contact Session']);
-            $table->text('location');
-            $table->string('name');
-            $table->timestamp('starts_at');
-            $table->timestamp('ends_at');
-            $table->boolean('is_leader')->default(false);
-            $table->integer('participant_count');
-            $table->text('content')->nullable(); // Obligātais mācību saturs
+            $table->string('event_type'); // e.g., Kontakstunda, nometne
+            $table->dateTime('start_time');
+            $table->dateTime('end_time');
+            $table->text('description')->nullable();
+            $table->integer('number_of_participants')->default(0);
+            $table->boolean('is_leader')->default(false); // True, ja darbinieks ir vadītājs
             $table->timestamps();
         });
     }

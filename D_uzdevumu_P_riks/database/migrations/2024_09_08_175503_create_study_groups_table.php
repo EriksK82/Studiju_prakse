@@ -14,8 +14,6 @@ return new class extends Migration
         Schema::create('study_groups', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->text('content_first_half');
-            $table->text('content_second_half');
             $table->foreignId('educational_institution_id')->constrained('educational_institutions')->onDelete('cascade');
             $table->timestamps();
         });

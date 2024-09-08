@@ -14,14 +14,13 @@ return new class extends Migration
         Schema::create('working_hours', function (Blueprint $table) {
             $table->id();
             $table->foreignId('study_group_id')->constrained('study_groups')->onDelete('cascade');
-            $table->year('year');
-            $table->unsignedTinyInteger('month'); // 1 - 12
-            $table->decimal('contact_hours', 8, 2); // Stundas kontakstundām
-            $table->decimal('event_hours', 8, 2); // Stundas pasākumiem
-            $table->decimal('np_nv_hours', 8, 2); // Stundas NP NV rīcībā
+            $table->integer('contact_hours_per_month')->default(0);
+            $table->integer('event_hours_per_month')->default(0);
+            $table->integer('total_hours_per_year')->default(0);
             $table->timestamps();
         });
     }
+
     /**
      * Reverse the migrations.
      */

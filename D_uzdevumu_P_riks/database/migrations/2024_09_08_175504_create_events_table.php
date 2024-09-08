@@ -11,9 +11,13 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('district_admins', function (Blueprint $table) {
+        Schema::create('events', function (Blueprint $table) {
             $table->id();
-            $table->string('name');
+            $table->foreignId('study_group_id')->constrained('study_groups')->onDelete('cascade');
+            $table->string('event_type'); // e.g., Nometne, pārgājiens, u.c.
+            $table->text('description')->nullable();
+            $table->dateTime('start_time');
+            $table->dateTime('end_time');
             $table->timestamps();
         });
     }
@@ -23,6 +27,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('district_admins');
+        Schema::dropIfExists('events');
     }
 };
