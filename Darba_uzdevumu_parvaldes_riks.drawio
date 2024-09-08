@@ -1,0 +1,135 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.12">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2876" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="ZfrTe5NxoF89OXbGs7Vm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;Izglītības iestāžu saraksts&lt;/div&gt;&lt;div&gt;- Nosaukums;&lt;/div&gt;&lt;div&gt;- Adrese;&lt;/div&gt;&lt;div&gt;-NP;&lt;/div&gt;&lt;div&gt;VAM;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-10" y="160" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="ZfrTe5NxoF89OXbGs7Vm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="ZfrTe5NxoF89OXbGs7Vm-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;div&gt;Darbinieki:&lt;/div&gt;&lt;div&gt;JSI;&lt;/div&gt;&lt;div&gt;NP_vadība;&lt;/div&gt;&lt;div&gt;JC_štābs&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-10" y="300" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-1" target="ZfrTe5NxoF89OXbGs7Vm-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522" y="569.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-1" value="&lt;div&gt;Pasākuma veidi;&lt;/div&gt;&lt;div&gt;-Nometne;&lt;/div&gt;&lt;div&gt;-pārgājiens;&lt;/div&gt;&lt;div&gt;-ekskursija;&lt;/div&gt;&lt;div&gt;-dienas pasākums;&lt;/div&gt;&lt;div&gt;Kontakstundas:&lt;/div&gt;&lt;div&gt;JS;&lt;/div&gt;&lt;div&gt;VAM&lt;br&gt;&lt;/div&gt;&lt;div&gt;NP NV rīcībā&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="310" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-2" target="ZfrTe5NxoF89OXbGs7Vm-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="392" y="569.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-2" value="&lt;div&gt;Obligātais_saturs&lt;/div&gt;&lt;div&gt;-līmenis;&lt;/div&gt;&lt;div&gt;-līmeņa saturs;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="272" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-3" target="ZfrTe5NxoF89OXbGs7Vm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-3" value="&lt;div&gt;Darba stundas&lt;/div&gt;&lt;div&gt;-gads;&lt;/div&gt;&lt;div&gt;-mēnesis;&lt;/div&gt;&lt;div&gt;stundas;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="397" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-24" target="ZfrTe5NxoF89OXbGs7Vm-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="374" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-24" value="Grupu dalīšana(JS līmenis/VAM1/VAM2)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="175" y="180" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-59" target="ZfrTe5NxoF89OXbGs7Vm-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457" y="454.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-28" target="ZfrTe5NxoF89OXbGs7Vm-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-28" value="Grupu sadale/JSI slodze" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="155" width="166" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-29" value="Dati" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-710" y="25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-30" value="Rezultāts" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-690" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-31" value="Process" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-710" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-34" target="ZfrTe5NxoF89OXbGs7Vm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-34" target="ZfrTe5NxoF89OXbGs7Vm-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-34" value="JS/ VAM grupu līmeņi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="465" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-47" target="ZfrTe5NxoF89OXbGs7Vm-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-47" target="ZfrTe5NxoF89OXbGs7Vm-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-47" value="&lt;div&gt;Darba plāns:&lt;/div&gt;&lt;div&gt;- laiks no;&lt;/div&gt;&lt;div&gt;- laiks līdz;&lt;/div&gt;&lt;div&gt;- grupa;&lt;/div&gt;&lt;div&gt;- paākuma veids;&lt;/div&gt;&lt;div&gt;-Obligātais saturs/nodarbības tēma;&lt;/div&gt;&lt;div&gt;Nosaukums;&lt;/div&gt;&lt;div&gt;norises vieta;&lt;/div&gt;&lt;div&gt;Vadība/Dalība;&lt;/div&gt;&lt;div&gt;dalībnieku skaits;&lt;/div&gt;&lt;div&gt;-JS;&lt;/div&gt;&lt;div&gt;-citi.&lt;/div&gt;&lt;div&gt;Tāme;&lt;/div&gt;DK;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="392" y="455" width="130" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-48" value="Darbinieku plānostās stundas(periods)" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-20" y="550" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-54" target="ZfrTe5NxoF89OXbGs7Vm-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-54" target="ZfrTe5NxoF89OXbGs7Vm-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-54" value="Struktūrvienības Darba plāns/Nodarbību saraksts" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="510" width="183" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-56" value="&lt;div&gt;Plānotās stundas;&lt;/div&gt;&lt;div&gt;-Konatkstundas;&lt;/div&gt;&lt;div&gt;-Pasākumi;&lt;/div&gt;&lt;div&gt;NP NV rīcībā&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="770" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-28" target="ZfrTe5NxoF89OXbGs7Vm-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457" y="285" as="sourcePoint" />
+            <mxPoint x="457" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-59" value="&lt;div&gt;Grupu mācību pasākumi:&lt;/div&gt;&lt;div&gt;-Grupa;&lt;/div&gt;&lt;div&gt;- Obligātais saturs;&lt;/div&gt;-Obligātie pasākumi" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="382" y="315" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.292;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-56" target="ZfrTe5NxoF89OXbGs7Vm-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-63" value="Plānoties pasākumi/statistika" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="780" width="177" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.751;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZfrTe5NxoF89OXbGs7Vm-63" target="ZfrTe5NxoF89OXbGs7Vm-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-65" value="Statistika" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="620" width="183" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-69" value="&lt;div&gt;JSI Darba stundas&lt;/div&gt;&lt;div&gt;-gads;&lt;/div&gt;&lt;div&gt;-mēnesis;&lt;/div&gt;&lt;div&gt;stundas;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="597" y="157.5" width="130" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="ZfrTe5NxoF89OXbGs7Vm-71" value="Obligātā satura izpilde" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="730" y="390" width="183" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
